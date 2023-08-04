@@ -1,0 +1,16 @@
+NumClicker: Privacy Policy
+
+Welcome to the Num Clicker app for Android!
+
+This is an open source Android app developed by redd096. 
+The source code is available on GitHub under the GNU General Public License v3.0 license.
+The app is also available on Google Play.
+
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
+All data (score, nickname, upgrades) created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+
+This use the com.unity:unity-ads SDK to show advertisements. 
+It could asks access to Device Or Other IDs Data Type - Device Or Other IDs (some common examples may include Advertising ID, Android ID, IMEI, BSSID, MAC address)
+
+If you find any security vulnerability that has been inadvertently caused by us, or have any question regarding how the app protectes your privacy, 
+please post a discussion on GitHub, and we will surely try to fix it/help you.
